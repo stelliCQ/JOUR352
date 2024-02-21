@@ -1,0 +1,36 @@
+body {
+  background-color:#ffffff;
+}
+
+/* THIS IS A COMMENT BC I DON'T KNOW WHAT IM DOING */
+
+h1 {
+  font-family: "Protest Riot", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 3rem;
+  text-align: center;
+  padding: 50px 50px 50px 50px;
+  margin: 50px ;
+}
+
+.headerbox {
+background-color: lightskyblue;
+}
+
+body {
+  font-family: "PT Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+h1 {border-style: ;}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
