@@ -1,0 +1,32 @@
+body  {background-color: #f4f4f4;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+h1 {
+  background-color: #e9cb20;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.YELLOWBOX { background-color: #e9cb20;padding: 20px;
+font-family: "Poppins", sans-serif;
+  font-weight: 900;
+}
+
+.sidebar {background-color: #666666;
+  font-color: #ffffff;
+  width: 400px;
+  float:right;
+}
+.content {width: 90%;
+  padding:20px;
+}
+
+table {font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: normal;color:#ffffff;
+
+}
