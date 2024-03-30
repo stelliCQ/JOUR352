@@ -1,0 +1,13 @@
+.merriweather-regular {
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {text-align: center; background-color: #636363; padding:100px 80px 80px 100px; 
+  font-weight: 800; color:#fff;
+}
+
+body { background-color:#dadada; text-align: justify; margin: 20px 20px 20px 20px;
+}
+
