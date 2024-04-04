@@ -1,0 +1,55 @@
+
+/*This is my header code that I wanted to manipulate so it would look more intersting visually when you first open the page */
+
+.Header {height:20vh; text-align: center; background-color:#393636; padding:100px 100px 100px 100px; color:#FFFBFB; 
+}
+
+/*Thi is my code for my header. I separed it so it's easier for me to find it. */
+h1 { font-family: "Playfair Display", sans-serif;}
+
+/** this is my css for p where I set the margins for this webpage */
+p { text-align: justify; margin: 15px 15px 15px 15px
+}
+
+/** This is my css for h3. My h3 wasn't acting up so I put the margins in here just in case.**/
+
+h3 {text-align: center; margin: 15px 15px 15px 15px; font-family: "Playfair Display", sans-serif;
+}
+
+/** This is my css for my video. I wanted it to look more concise and weird. **/
+iframe {display: block;
+    margin: 0 auto;
+  } 
+
+
+/** This is my css for my pullquotes. I wanted it to have a different alignment and size compared to the rest of the text. **/
+ blockquote { font-size: 25px; color: darkgrey; text-align: center;}
+
+
+/** This is my css for the captions. I made it a class so it doesn't affect the rest of the <p> code. I wanted center instead of justify so it can go with the image. **/
+.lala {text-align: center;}
+
+/** This is my css for image where I put auto sections for it to look nice and reduced the width so it doen't take all my space **/
+
+ img {
+  width: 75%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+/** This is my css for the footer area where I put the background color, alignment, text color and padding I wanted. **/
+
+.coco { background-color:#393636; color:#FFFBFB;text-align: center; padding: 0 0 0 0;}
+
+/** This is my css for body where I put the font type I wanted, the optical sizing and style **/
+
+body {
+  font-family: "Playfair Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
