@@ -1,0 +1,69 @@
+/* GLOBAL ARTICLE STYLES */
+
+body {
+
+}
+
+h1 { text-align: center;
+
+}
+
+
+img {align-content: center;}
+
+
+.responsive-embed {background-color: #f4f4f4}
+
+.callout {background-color: #f4f4f4; text-align: center; float: right; 
+}
+
+
+
+/*already in html*/
+.navStyle {
+	background-color: #000;
+	color: #fff;
+	height: 50px;
+	padding: 12px;
+	text-align: center;
+}
+/*already in html*/
+.navStyle a {
+	color: #f4f4f4;
+	text-decoration: none;
+}
+/*already in html*/
+.navStyle a:hover {
+	color: #009cff;
+}
+/*already in html*/
+.navItem {
+	margin: 0 25px 0 25px;
+}
+.bodyCopy {
+	padding: 20px 20px 20px 50px;
+	text-align: justify;
+}
+/*already in html*/
+.footerStyle {
+	background-color: #009cff;
+	color: #fff;
+	padding: 12px;
+	height: 50px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+/*already in html*/
+.rtt {
+	text-align: center;
+	margin-top: 50px;
+}
+.rtt a {
+	color: #009cff;
+	text-decoration: none;
+	font-weight: bold;
+}
+.rtt a:hover {
+	color: #09639c;
+}
