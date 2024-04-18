@@ -1,0 +1,26 @@
+
+body { font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+background-color: #EEEEEE; 
+}
+
+p { margin: 20px 60px 20px 60px; text-align: justify}
+
+
+.Header {text-align: center; background-color: #5fab5f; color: #ffffff; padding:100px 100px 100px 100px; }
+h1 {font-family: "Mulish", sans-serif;}
+
+
+#infogram-container { height: 400px; width: 600px; align-content: center; margin: 0 auto; text-align: center;
+}
+
+#lmao1 { height: 400px; width: 600px; align-content: center; margin: 0 auto; text-align: center;}
+
+footer {text-align: center;background-color: #5fab5f; color: #ffffff; padding:30px 30px 30px 30px; 
+font-family: "Mulish", sans-serif;
+}
+
+a{ color:#ffffff }
+
