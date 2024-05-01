@@ -1,0 +1,55 @@
+.Header {background-color: #003B09;
+	padding:100px 100px 100px 100px; 
+	color:#FFFBFB; text-align: center;}
+
+h1 {font-family: "Platypi", sans-serif}
+
+body {
+  font-family: "Platypi", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+p {text-align: justify; margin: 20px 20px 20px 20px}
+
+blockquote { text-align: center; color:#003B09; font-size: 500;
+}
+
+.footer {background-color: #003B09;
+  padding:10px 10px 10px 10px; 
+  color:#FFFBFB; text-align: center;}
+}
+
+
+.bro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#audiostuff {border-radius: 10px; background-color: #003B09;width: 500px;margin: 20px 20px 20px 20px;  
+  display: flex;
+        align-items: center;
+}
+
+#audiostuff1 {border-radius: 10px; background-color: #003B09;width: 500px; margin: 20px 20px 20px 20px;
+  display: flex;
+        align-items: center;
+}
+
+h3 {font-family: "Platypi", sans-serif; text-align: center;
+}
+
+img {height: 600px;width: 800px;  display: block;
+  margin-left: auto;
+  margin-right: auto 
+}
+
+.lol {text-align: center;
+}
+
+.pru {text-align: center;}
+
+
+
