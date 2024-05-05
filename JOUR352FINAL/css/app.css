@@ -41,10 +41,19 @@ blockquote { text-align: center; color:#003B09; font-size: 500;
 h3 {font-family: "Platypi", sans-serif; text-align: center;
 }
 
-img {height: 400px;width: 600px;  display: block;
+img {height: 600px;width: 800px;  display: block;
   margin-left: auto;
   margin-right: auto 
 }
+
+.god {height: 400px;width: 600px;  display: block;
+  margin-left: auto;
+  margin-right: auto 
+}
+
+.stock{height: 400px;width: 600px;  display: block;
+  margin-left: auto;
+  margin-right: auto }
 
 .lol {text-align: center;
 }
